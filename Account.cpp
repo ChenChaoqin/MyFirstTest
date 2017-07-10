@@ -85,7 +85,7 @@ int main() {
 			A->display();
 
 		}
-
+		cout<<endl; 
 
 	}
 	return 0;
